@@ -10,19 +10,18 @@ Leo Kalen
 =======
 
 Mykola Peredrii
->>>>>>> e9b6d804fce527343ed1377e0cbfeab354d6b314
-=======
-Achraf Ait
->>>>>>> AchrafAitbaych
 =======
 Mykola Peredrii
 <<<<<<< HEAD
 Leo Kalen
 Daniel
->>>>>>> 6f33d054ad2a469f273af424f4d7cdafe87387d4
 =======
 Leo 
-Jose María Mesquita Franca
 Aaron Hernandez
 Alejandro Gracia Ferrer
->>>>>>> 026c0929d39c4b713f297466dafe21d75a633151
+<<<<<<< HEAD
+=======
+Jose Maria Mesquita Franca
+=======
+Achraf Ait
+AchrafAitbaych
