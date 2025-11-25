@@ -5,6 +5,6 @@ Practica9 de DAW. A partir de esta línea añade tu nombre, respetando los nombr
 Diego
 Mykola Peredrii
 Leo 
-Jose María Mesquita Franca
 Aaron Hernandez
 Alejandro Gracia Ferrer
+Jose Maria Mesquita Franca
