@@ -5,6 +5,7 @@ Practica9 de DAW. A partir de esta línea añade tu nombre, respetando los nombr
 Diego
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Leo Kalen
 =======
 
@@ -13,3 +14,8 @@ Mykola Peredrii
 =======
 Achraf Ait
 >>>>>>> AchrafAitbaych
+=======
+Mykola Peredrii
+Leo Kalen
+Daniel
+>>>>>>> 6f33d054ad2a469f273af424f4d7cdafe87387d4
