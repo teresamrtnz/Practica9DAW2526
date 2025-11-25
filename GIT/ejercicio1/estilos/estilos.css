@@ -1,0 +1,59 @@
+body{
+	background-image: url("../imagenes/fondo.jpg");
+	background-repeat: repeat-x;
+	border-width: 5px;
+	border-style: dashed solid;			
+}
+
+.fondoBlanco{
+	padding: 20px;
+	background-color: white;
+	margin-bottom:0px;
+}
+
+.fondoAzul{
+	background-color: blue;
+	padding: 5px;
+	color: white;
+	margin-bottom: 0px;
+}
+
+.fondoAzulClaro{
+	background-color: lightblue;
+	margin-bottom: 0px;
+}
+
+ul{
+	border-width: 3px;
+	border-style: solid;
+	margin-top: 0px;
+}
+
+#l1{	
+	border-color: white;
+		
+}
+
+#l2{	
+	border-color: blue;
+}
+
+div{
+	margin: 20px;	
+	border: solid red;
+	padding: 20px;	
+}
+
+h2 + p{
+	margin: 0px;
+}
+
+/* Otra forma
+#l1{	
+	border: 3px solid white;		
+}
+#l2{	
+	border: 3px solid blue;		
+}
+
+*/
