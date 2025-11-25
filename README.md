@@ -7,3 +7,7 @@ Mykola Peredrii
 Rares Stanescu
 Leo Kalen
 Daniel
+Leo 
+Jose María Mesquita Franca
+Aaron Hernandez
+Alejandro Gracia Ferrer
