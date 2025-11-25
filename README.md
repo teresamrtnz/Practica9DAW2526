@@ -4,14 +4,13 @@ Practica9 de DAW
 Repositorio Fork editado
 Practica9 de DAW. A partir de esta línea añade tu nombre, respetando los nombres de los compañeros que ya se hayan añadido
 
-Leo Kalen
 Mykola Peredrii
-Jose María Mesquita Franca
+Leo Kalen
+Daniel
+Daniel
 Aaron Hernandez
 Alejandro Gracia Ferrer
-Diego Martinez
-Daniel
-Leo 
+Jose Maria Mesquita Franca
 Achraf Ait
-AchrafAitbaych
-
+Rares Stanescu
+Diego Martinez
