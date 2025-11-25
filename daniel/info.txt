@@ -1,0 +1,3 @@
+Nombre y apellidos: Daniel Bernal Anzano
+direccion de correo electronico: dbernalanz@gmail.com
+equipo de futbol favorito: FC Barcelona
