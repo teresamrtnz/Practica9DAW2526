@@ -1,4 +1,4 @@
-# Practica9DAW2526
+# Practica 9DAW2526
 
 Practica9 de DAW
 Repositorio Fork editado
@@ -13,4 +13,5 @@ Alejandro Gracia Ferrer
 Jose Maria Mesquita Franca
 Achraf Ait
 Rares Stanescu
-Diego Martinez
+Diego Martinez Gil
+
