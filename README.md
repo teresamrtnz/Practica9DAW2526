@@ -9,7 +9,6 @@ Mykola Peredrii
 =======
 Leo Kalen
 Daniel
-Daniel
 Aaron Hernandez
 Alejandro Gracia Ferrer
 Jose Maria Mesquita Franca
