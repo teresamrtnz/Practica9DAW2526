@@ -7,7 +7,6 @@ Practica9 de DAW. A partir de esta línea añade tu nombre, respetando los nombr
 Mykola Peredrii
 Leo Kalen
 Daniel
-Daniel
 Aaron Hernandez
 Alejandro Gracia Ferrer
 Jose Maria Mesquita Franca
